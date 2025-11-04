@@ -1,5 +1,21 @@
-{
-  "video_url": "https://live-hls-web-ajm.getaj.net/AJM/04.m3u8",
-  "referer": "https://google.fr",
-  "cookie": "name1=value1;name2=value2;name3=value3"
-}
+[
+  {
+    "video_url": "https://live-hls-web-ajm.getaj.net/AJM/04.m3u8",
+    "origin": "https://google.fr",
+    "user-agent": "Mozilla",
+    "referer": "https://google.fr/",
+    "cookie": "name1=value1;name2=value2;naem3=value3",
+    "httpcanary": false,
+    "rot": false,
+    "deviceroot": false,
+    "cast": false,
+    "name": "al jazeera"
+  },
+  {
+    "video_url": "https://live-hls-web-ajm.getaj.net/AJM/05.m3u8",
+    "httpcanary": false,
+    "rot": false,
+    "cast": false,
+    "name": "Al jazeera HD"
+  }
+]
